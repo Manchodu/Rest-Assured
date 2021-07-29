@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6794" started-at="2021-07-29T11:35:42 IST" finished-at="2021-07-29T11:35:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6794" started-at="2021-07-29T11:35:42 IST" finished-at="2021-07-29T11:35:49 IST">
+      <class name="tests.SoapXmlRequest">
+        <test-method status="PASS" signature="validateSoapXML()[pri:0, instance:tests.SoapXmlRequest@52feb982]" name="validateSoapXML" duration-ms="6744" started-at="2021-07-29T11:35:42 IST" finished-at="2021-07-29T11:35:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSoapXML -->
+      </class> <!-- tests.SoapXmlRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
